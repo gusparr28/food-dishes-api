@@ -1,5 +1,6 @@
 import type { Context } from "hono";
-import FoodDishesService from "../../services/foodDishes/impl/food-dishes.service";
+
+import { FoodDishesService } from "../../../application/services/food-dishes.service";
 
 const foodDishesService = new FoodDishesService();
 
@@ -16,11 +17,15 @@ export const getFoodDishes = async (ctx: Context) => {
 };
 
 export const getFoodDishDetailsById = async (ctx: Context) => {
-	const { id } = ctx.req.param();
+	const { id: foodDishId } = ctx.req.param();
+    const { plateType } = ctx.req.query();
 
 	try {
-		const { foodDishDetailsId, foodDishesId, ...foodDishDetailsById } =
-			await foodDishesService.findFoodDishDetailsById(id);
+		const { id, idFoodDish, ...foodDishDetailsById } =
+			await foodDishesService.findFoodDishDetailsById(
+				Number.parseInt(foodDishId),
+				plateType,
+			);
 
 		return ctx.json(
 			{

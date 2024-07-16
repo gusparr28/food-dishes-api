@@ -1,10 +1,16 @@
 import { Hono } from "hono";
 import { logger } from "hono/logger";
+import { cors } from "hono/cors";
 
-import foodDishesRoutes from "./api/routes/food-dishes.routes";
+import foodDishesRoutes from "./infrastructure/api/routes/food-dishes.route";
 
 const app = new Hono().basePath("/api");
 
+app.use(
+	cors({
+		origin: "*",
+	}),
+);
 app.use(logger());
 
 app.route("/", foodDishesRoutes);
