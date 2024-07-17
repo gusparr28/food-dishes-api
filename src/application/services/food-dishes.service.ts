@@ -31,9 +31,7 @@ export class FoodDishesService {
 		const foodDishesDetailsFile = Bun.file(pathToFoodDishesDetails, {
 			type: "application/json",
 		});
-		const foodDishesDetails = (await foodDishesDetailsFile.json())[
-			"food-dishes-details"
-		];
+		const foodDishesDetails = await foodDishesDetailsFile.json();
 
 		const foodDishesDetailsToMap = match(plateType)
 			.with("main", () => {
@@ -78,7 +76,7 @@ export class FoodDishesService {
 			type: "application/json",
 		});
 
-		const foodDishes = (await foodDishesFile.json())["food-dishes"];
+		const foodDishes = await foodDishesFile.json();
 
 		const foodDishesDetailsToMap = match(plateType)
 			.with("main", () => {
