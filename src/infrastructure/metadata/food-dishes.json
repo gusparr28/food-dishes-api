@@ -1,93 +1,93 @@
 {
-    "main": [
-        {
-            "id": 1,
-            "title": "Bacalao en salsa puttanesca",
-            "image": "https://knoweats.com/cdn/shop/files/bacalao-puttanesca-knoweats.jpg?v=1693166223&width=1646"
-        },
-        {
-            "id": 2,
-            "title": "Pollo a la griega",
-            "image": "https://knoweats.com/cdn/shop/files/pollo-griego-knoweats.jpg?v=1692567369&width=823"
-        },
-        {
-            "id": 3,
-            "title": "Tacos de cochinita pibil",
-            "image": "https://knoweats.com/cdn/shop/files/tacos-cochinita-pibil-knoweats_8183a5ea-ce54-4247-9594-8745da8001a4.jpg?v=1692568020&width=1646"
-        },
-        {
-            "id": 4,
-            "title": "Carrillera de ternera en salsa de shiitake",
-            "image": "https://knoweats.com/cdn/shop/files/carrillera-ternera-parmentier-trufada-knoweats.jpg?v=1691394629&width=1646"
-        },
-        {
-            "id": 5,
-            "title": "Salmón salsa cítrica",
-            "image": "https://knoweats.com/cdn/shop/files/salmon-citrica-patata-verduras-knoweats.jpg?v=1689861933&width=1646"
-        },
-        {
-            "id": 6,
-            "title": "Rigatoni con salsa de tomate, berenjena y queso de cabra",
-            "image": "https://knoweats.com/cdn/shop/files/rigatoni-tomate-queso-cabra-knoweats.jpg?v=1693393772&width=1646"
-        },
-        {
-            "id": 7,
-            "title": "Albóndigas en salsa de almendra",
-            "image": "https://knoweats.com/cdn/shop/files/Almondigas_almendra-frontal.jpg?v=1705574249&width=1646"
-        },
-        {
-            "id": 8,
-            "title": "Pavo en salsa de setas y estragón",
-            "image": "https://knoweats.com/cdn/shop/files/pollo-salsa-setas-etragon-knoweats.jpg?v=1705398494&width=1646"
-        },
-        {
-            "id": 9,
-            "title": "Arroz de presa, alcachofa y setas",
-            "image": "https://knoweats.com/cdn/shop/files/arroz-presa-frontal.jpg?v=1706891813&width=1646"
-        },
-        {
-            "id": 10,
-            "title": "Garbanzos con bacalao y espinacas",
-            "image": "https://knoweats.com/cdn/shop/files/2171.jpg?v=1706479794&width=1646"
-        }
-    ],
-    "veggies": [
-        {
-            "id": 1,
-            "title": "Tajín de verduras",
-            "image": "https://knoweats.com/cdn/shop/files/tajin-vegano-knoweats.jpg?v=1691397089&width=1646"
-        },
-        {
-            "id": 2,
-            "title": "Spaghetti salsa boloñesa vegetal",
-            "image": "https://knoweats.com/cdn/shop/files/spaghettis-bolonyesa-vegana-knoweats.jpg?v=1696264906&width=1646"
-        },
-        {
-            "id": 3,
-            "title": "Arroz jambalaya",
-            "image": "https://knoweats.com/cdn/shop/files/arroz-jambalaya-knoweats.jpg?v=1692566523&width=1646"
-        },
-        {
-            "id": 4,
-            "title": "Tofu en salsa agridulce con verduraz y arroz",
-            "image": "https://knoweats.com/cdn/shop/files/tofu-agridulce-knoweats.jpg?v=1693473828&width=1646"
-        }
-    ],
-    "desserts": [
-        {
-            "id": 1,
-            "title": "Arroz con leche de coco y pistacho",
-            "image": "https://knoweats.com/cdn/shop/files/arroz-leche-vegano-knoweats.jpg?v=1691765554&width=1646"
-        },
-        {
-            "id": 2,
-            "title": "Tarta de queso",
-            "image": "https://knoweats.com/cdn/shop/files/tarta-queso-knoweats.jpg?v=1691765932&width=1646"
-        },
-        {
-            "id": 3,
-            "title": "Brownie de chocolate y frambuesa",
-            "image": "https://knoweats.com/cdn/shop/files/brownie-chocolate-frutosrojos-knoweats.jpg?v=1691765656&width=1646"
-        }
-    ]
+	"main": [
+		{
+			"id": 1,
+			"title": "Bacalao en salsa puttanesca",
+			"image": "https://knoweats.com/cdn/shop/files/bacalao-puttanesca-knoweats.jpg?v=1693166223&width=1646"
+		},
+		{
+			"id": 2,
+			"title": "Pollo a la griega",
+			"image": "https://knoweats.com/cdn/shop/files/pollo-griego-knoweats.jpg?v=1692567369&width=823"
+		},
+		{
+			"id": 3,
+			"title": "Tacos de cochinita pibil",
+			"image": "https://knoweats.com/cdn/shop/files/tacos-cochinita-pibil-knoweats_8183a5ea-ce54-4247-9594-8745da8001a4.jpg?v=1692568020&width=1646"
+		},
+		{
+			"id": 4,
+			"title": "Carrillera de ternera en salsa de shiitake",
+			"image": "https://knoweats.com/cdn/shop/files/carrillera-ternera-parmentier-trufada-knoweats.jpg?v=1691394629&width=1646"
+		},
+		{
+			"id": 5,
+			"title": "Salmón salsa cítrica",
+			"image": "https://knoweats.com/cdn/shop/files/salmon-citrica-patata-verduras-knoweats.jpg?v=1689861933&width=1646"
+		},
+		{
+			"id": 6,
+			"title": "Rigatoni con salsa de tomate, berenjena y queso de cabra",
+			"image": "https://knoweats.com/cdn/shop/files/rigatoni-tomate-queso-cabra-knoweats.jpg?v=1693393772&width=1646"
+		},
+		{
+			"id": 7,
+			"title": "Albóndigas en salsa de almendra",
+			"image": "https://knoweats.com/cdn/shop/files/Almondigas_almendra-frontal.jpg?v=1705574249&width=1646"
+		},
+		{
+			"id": 8,
+			"title": "Pavo en salsa de setas y estragón",
+			"image": "https://knoweats.com/cdn/shop/files/pollo-salsa-setas-etragon-knoweats.jpg?v=1705398494&width=1646"
+		},
+		{
+			"id": 9,
+			"title": "Arroz de presa, alcachofa y setas",
+			"image": "https://knoweats.com/cdn/shop/files/arroz-presa-frontal.jpg?v=1706891813&width=1646"
+		},
+		{
+			"id": 10,
+			"title": "Garbanzos con bacalao y espinacas",
+			"image": "https://knoweats.com/cdn/shop/files/2171.jpg?v=1706479794&width=1646"
+		}
+	],
+	"veggies": [
+		{
+			"id": 1,
+			"title": "Tajín de verduras",
+			"image": "https://knoweats.com/cdn/shop/files/tajin-vegano-knoweats.jpg?v=1691397089&width=1646"
+		},
+		{
+			"id": 2,
+			"title": "Spaghetti salsa boloñesa vegetal",
+			"image": "https://knoweats.com/cdn/shop/files/spaghettis-bolonyesa-vegana-knoweats.jpg?v=1696264906&width=1646"
+		},
+		{
+			"id": 3,
+			"title": "Arroz jambalaya",
+			"image": "https://knoweats.com/cdn/shop/files/arroz-jambalaya-knoweats.jpg?v=1692566523&width=1646"
+		},
+		{
+			"id": 4,
+			"title": "Tofu en salsa agridulce con verduraz y arroz",
+			"image": "https://knoweats.com/cdn/shop/files/tofu-agridulce-knoweats.jpg?v=1693473828&width=1646"
+		}
+	],
+	"desserts": [
+		{
+			"id": 1,
+			"title": "Arroz con leche de coco y pistacho",
+			"image": "https://knoweats.com/cdn/shop/files/arroz-leche-vegano-knoweats.jpg?v=1691765554&width=1646"
+		},
+		{
+			"id": 2,
+			"title": "Tarta de queso",
+			"image": "https://knoweats.com/cdn/shop/files/tarta-queso-knoweats.jpg?v=1691765932&width=1646"
+		},
+		{
+			"id": 3,
+			"title": "Brownie de chocolate y frambuesa",
+			"image": "https://knoweats.com/cdn/shop/files/brownie-chocolate-frutosrojos-knoweats.jpg?v=1691765656&width=1646"
+		}
+	]
 }

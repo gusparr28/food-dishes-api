@@ -18,7 +18,7 @@ export const getFoodDishes = async (ctx: Context) => {
 
 export const getFoodDishDetailsById = async (ctx: Context) => {
 	const { id: foodDishId } = ctx.req.param();
-    const { plateType } = ctx.req.query();
+	const { plateType } = ctx.req.query();
 
 	try {
 		const { id, idFoodDish, ...foodDishDetailsById } =

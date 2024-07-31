@@ -1,24 +1,22 @@
 {
-  "name": "food-dishes-api",
-  "module": "server.ts",
-  "type": "module",
-  "scripts": {
-    "start": "bun run src/server.ts",
-    "dev": "bun --watch run src/server.ts",
-    "write": "bunx @biomejs/biome check --write *"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "^1.8.3",
-    "@types/bun": "^1.1.6"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
-  "dependencies": {
-    "hono": "^4.4.11",
-    "ts-pattern": "^5.2.0"
-  },
-  "trustedDependencies": [
-    "@biomejs/biome"
-  ]
+	"name": "food-dishes-api",
+	"module": "server.ts",
+	"type": "module",
+	"scripts": {
+		"start": "bun run src/server.ts",
+		"dev": "bun --watch run src/server.ts",
+		"write": "bunx @biomejs/biome check --write *"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.8.3",
+		"@types/bun": "^1.1.6"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"dependencies": {
+		"hono": "^4.4.11",
+		"ts-pattern": "^5.2.0"
+	},
+	"trustedDependencies": ["@biomejs/biome"]
 }

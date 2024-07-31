@@ -1,229 +1,229 @@
 {
-    "main": [
-        {
-            "id": 1,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 495,
-                "proteins": "40g",
-                "carbohydrates": "36g",
-                "fats": "22g"
-            },
-            "ingredients": "Bacalao ,calabacín, cebolla, estragón, patata, salsa puttanesca (tomate frito casero, cebolla, aceituna negra, aceite de oliva, alcaparras, anchoa, pasta de ajo, ají, sal, pimienta). Alérgenos*: PESCADO, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 1
-        },
-        {
-            "id": 2,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 378,
-                "proteins": "36g",
-                "carbohydrates": "24g",
-                "fats": "16g"
-            },
-            "ingredients": "Contramuslo de pollo, marinada griega (yogurt natural, zumo limón y ralladura, pasta de ajo, hierbabuena, tomillo, orégano, sal, pimienta), patata, cebolla, pimiento, calabacín, queso feta, aceituna, tomate cherry, aceite de oliva virgen, hierbas provenzales, sal, pimienta. Alérgenos*: LÁCTEOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 2
-        },
-        {
-            "id": 3,
-            "grams": "(400g)",
-            "nutritionFacts": {
-                "kilocalories": 952,
-                "proteins": "44g",
-                "carbohydrates": "55g",
-                "fats": "61g"
-            },
-            "ingredients": "Carne de cerdo, tortillas de trigo, pasta de achiote, zumo de naranja, zumo de limón, cebolla encurtida, vinagre de vino, aceite de oliva virgen, pimienta negra, canela, comino, ajo, laurel, orégano, sal. Alérgenos*: GLUTEN, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 3
-        },
-        {
-            "id": 4,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 504,
-                "proteins": "53g",
-                "carbohydrates": "24g",
-                "fats": "20g"
-            },
-            "ingredients": "Carrillera de ternera, salsa (jugo de ternera, vino tinto, seta shiitake, aceite de oliva virgen, sal, pimienta, almidón de maíz), judía, cebolla, ajo, puré trufado (patata, leche, margarina, pimienta, pasta de trufa, sal). Alérgenos*: SULFITOS, LÁCTEOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 4
-        },
-        {
-            "id": 5,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 562,
-                "proteins": "35g",
-                "carbohydrates": "34g",
-                "fats": "32g"
-            },
-            "ingredients": "Salmón, salsa cítrica (zumo de naranja, zumo de limón, cebolla, caldo de pollo, mantequilla, cúrcuma) patata, chimichurri (perejil, orégano, chile, ajo, vinagre, aceite de girasol), menestra de verduras (brócoli, coliflor, zanahoria, judía plana), aceite de oliva virgen, sal pimienta. Alérgenos: PESCADO, APIO, LÁCTEOS, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 5
-        },
-        {
-            "id": 6,
-            "grams": "(420g)",
-            "nutritionFacts": {
-                "kilocalories": 437,
-                "proteins": "13g",
-                "carbohydrates": "61g",
-                "fats": "15g"
-            },
-            "ingredients": "Pasta de trigo, tomate frito casero, berenjena, seta cardo, cebolla, queso de cabra, aceite de oliva virgen, sal. Alérgenos*: GLUTEN, LÁCTEOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 6
-        },
-        {
-            "id": 7,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 724,
-                "proteins": "25g",
-                "carbohydrates": "40g",
-                "fats": "51g"
-            },
-            "ingredients": "Albóndigas (carne de cerdo 60%, carne de vacuno 40%, fibra y texturizado de guisante, fibra de bambú,  harina de trigo, almidón de maíz, sal, especias, azúcares, jarabe de glucosa, fibra de naranja, ajo, perejil, pimienta), salsa de almendra (caldo pollo, cebolla, aceite de oliva, almendra, pan, ajo, sal, almidón de maíz), patata, pimiento, cebolla, romero, aceite de oliva virgen, perejil, sal, pimienta. Alérgenos*: GLUTEN, APIO, FRUTOS SECOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 7
-        },
-        {
-            "id": 8,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 472,
-                "proteins": "48g",
-                "carbohydrates": "36g",
-                "fats": "16g"
-            },
-            "ingredients": "Pechuga de pavo, salsa setas y estragón (nata, setas, caldo de pollo, estagón), berenjena, calabacín, patata, boniato, aceite de oliva virgen, sal, pimienta. Alérgenos: LÁCTEOS, APIO *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 8
-        },
-        {
-            "id": 9,
-            "grams": "(420g)",
-            "nutritionFacts": {
-                "kilocalories": 638,
-                "proteins": "23g",
-                "carbohydrates": "58g",
-                "fats": "35g"
-            },
-            "ingredients": "Arroz, presa de cerdo, caldo de cerdo, alcachofa, setas, habas, salmorreta (ñora, ajo, tomate, jugo de limón), aceite de oliva virgen, sal. Alérgenos*: APIO. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 9
-        },
-        {
-            "id": 10,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 571,
-                "proteins": "42g",
-                "carbohydrates": "58g",
-                "fats": "19g"
-            },
-            "ingredients": "Garbanzos, bacalao, caldo de pescado, espinaca, cebolla, tomate frito casero, huevo, aceite de oliva virgen, ajo, sal, laurel. Alérgenos: PESCADO, APIO, MOLUSCOS, CRUSTÁCEOS, HUEVO. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 10
-        }
-    ],
-    "veggies": [
-        {
-            "id": 1,
-            "grams": "(420g)",
-            "nutritionFacts": {
-                "kilocalories": 748,
-                "proteins": "23g",
-                "carbohydrates": "118g",
-                "fats": "25g"
-            },
-            "ingredients": "Sémola de trigo, boniato, berenjena, calabacín, cebolla, patata, zanahoria, garbanzos, tomate frito casero, ciruela deshidratada, dátil, aceite de oliva virgen, canela en rama, pasta de ajo, pimentón, ras al hanout, almendra, sal. Alérgenos*: GLUTEN, FRUTOS SECOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 1
-        },
-        {
-            "id": 2,
-            "grams": "(420g)",
-            "nutritionFacts": {
-                "kilocalories": 432,
-                "proteins": "14g",
-                "carbohydrates": "65g",
-                "fats": "11g"
-            },
-            "ingredients": "Pasta de trigo, tomate frito casero, zanahoria, cebolla, soja texturizada, apio vino tinto, pasta de ajo, aceite de oliva vigen, sal, pimienta. Alérgenos*: GLUTEN, SOJA, APIO, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 2
-        },
-        {
-            "id": 3,
-            "grams": "(420g)",
-            "nutritionFacts": {
-                "kilocalories": 424,
-                "proteins": "23g",
-                "carbohydrates": "65g",
-                "fats": "7g"
-            },
-            "ingredients": "Arroz, caldo de verduras, pimiento, alubia negra, cebolla, apio, tomate frio casero, soja texturizada, aceite de oliva, sal. Alérgenos: APIO, SOJA. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 3
-        },
-        {
-            "id": 4,
-            "grams": "(450g)",
-            "nutritionFacts": {
-                "kilocalories": 670,
-                "proteins": "20g",
-                "carbohydrates": "86g",
-                "fats": "27g"
-            },
-            "ingredients": "Tofu, cebolla, zanahoria, calabacín, pimiento rojo, aceite de girasol, tom kha, sal, arroz, salsa agridulce (chile dulce, salsa teriyaki, aceite de girasol, almidón de maíz, sal). Alérgenos*: SOJA, GLUTEN. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 4
-        }
-    ],
-    "desserts": [
-        {
-            "id": 1,
-            "grams": "(150g)",
-            "nutritionFacts": {
-                "kilocalories": 213,
-                "proteins": "6g",
-                "carbohydrates": "40g",
-                "fats": "3g"
-            },
-            "ingredients": "Leche de coco, azúcar, arroz, pistacho, jengibre, sal, canela, piel de limón. Alérgenos*: FRUTOS SECOS DE CÁSCARA *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "No calentar, abrir y consumir frío. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 1
-        },
-        {
-            "id": 2,
-            "grams": "(150g)",
-            "nutritionFacts": {
-                "kilocalories": 322,
-                "proteins": "14g",
-                "carbohydrates": "35g",
-                "fats": "13g"
-            },
-            "ingredients": "Queso crema, azúcar, nata, almidón de maíz, huevo, harina de trigo, harina de almendra, mantequilla, sal, canela, ralladura de limón. Alérgenos*: LÁCTEOS, HUEVO, GLUTEN, FRUTOS SECOS DE CÁSCARA. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "No calentar, abrir y consumir frío. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 2
-        },
-        {
-            "id": 3,
-            "grams": "(150g)",
-            "nutritionFacts": {
-                "kilocalories": 655,
-                "proteins": "7g",
-                "carbohydrates": "61g",
-                "fats": "42g"
-            },
-            "ingredients": "Azúcar,huevo,mantequilla, chocolate,harina de trigo, frambuesas. Alérgenos*: HUEVO, LÁCTEOS, GLUTEN. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
-            "instructions": "No calentar, abrir y consumir frío. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
-            "idFoodDish": 3
-        }
-    ]
+	"main": [
+		{
+			"id": 1,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 495,
+				"proteins": "40g",
+				"carbohydrates": "36g",
+				"fats": "22g"
+			},
+			"ingredients": "Bacalao ,calabacín, cebolla, estragón, patata, salsa puttanesca (tomate frito casero, cebolla, aceituna negra, aceite de oliva, alcaparras, anchoa, pasta de ajo, ají, sal, pimienta). Alérgenos*: PESCADO, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 1
+		},
+		{
+			"id": 2,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 378,
+				"proteins": "36g",
+				"carbohydrates": "24g",
+				"fats": "16g"
+			},
+			"ingredients": "Contramuslo de pollo, marinada griega (yogurt natural, zumo limón y ralladura, pasta de ajo, hierbabuena, tomillo, orégano, sal, pimienta), patata, cebolla, pimiento, calabacín, queso feta, aceituna, tomate cherry, aceite de oliva virgen, hierbas provenzales, sal, pimienta. Alérgenos*: LÁCTEOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 2
+		},
+		{
+			"id": 3,
+			"grams": "(400g)",
+			"nutritionFacts": {
+				"kilocalories": 952,
+				"proteins": "44g",
+				"carbohydrates": "55g",
+				"fats": "61g"
+			},
+			"ingredients": "Carne de cerdo, tortillas de trigo, pasta de achiote, zumo de naranja, zumo de limón, cebolla encurtida, vinagre de vino, aceite de oliva virgen, pimienta negra, canela, comino, ajo, laurel, orégano, sal. Alérgenos*: GLUTEN, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 3
+		},
+		{
+			"id": 4,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 504,
+				"proteins": "53g",
+				"carbohydrates": "24g",
+				"fats": "20g"
+			},
+			"ingredients": "Carrillera de ternera, salsa (jugo de ternera, vino tinto, seta shiitake, aceite de oliva virgen, sal, pimienta, almidón de maíz), judía, cebolla, ajo, puré trufado (patata, leche, margarina, pimienta, pasta de trufa, sal). Alérgenos*: SULFITOS, LÁCTEOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 4
+		},
+		{
+			"id": 5,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 562,
+				"proteins": "35g",
+				"carbohydrates": "34g",
+				"fats": "32g"
+			},
+			"ingredients": "Salmón, salsa cítrica (zumo de naranja, zumo de limón, cebolla, caldo de pollo, mantequilla, cúrcuma) patata, chimichurri (perejil, orégano, chile, ajo, vinagre, aceite de girasol), menestra de verduras (brócoli, coliflor, zanahoria, judía plana), aceite de oliva virgen, sal pimienta. Alérgenos: PESCADO, APIO, LÁCTEOS, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 5
+		},
+		{
+			"id": 6,
+			"grams": "(420g)",
+			"nutritionFacts": {
+				"kilocalories": 437,
+				"proteins": "13g",
+				"carbohydrates": "61g",
+				"fats": "15g"
+			},
+			"ingredients": "Pasta de trigo, tomate frito casero, berenjena, seta cardo, cebolla, queso de cabra, aceite de oliva virgen, sal. Alérgenos*: GLUTEN, LÁCTEOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 6
+		},
+		{
+			"id": 7,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 724,
+				"proteins": "25g",
+				"carbohydrates": "40g",
+				"fats": "51g"
+			},
+			"ingredients": "Albóndigas (carne de cerdo 60%, carne de vacuno 40%, fibra y texturizado de guisante, fibra de bambú,  harina de trigo, almidón de maíz, sal, especias, azúcares, jarabe de glucosa, fibra de naranja, ajo, perejil, pimienta), salsa de almendra (caldo pollo, cebolla, aceite de oliva, almendra, pan, ajo, sal, almidón de maíz), patata, pimiento, cebolla, romero, aceite de oliva virgen, perejil, sal, pimienta. Alérgenos*: GLUTEN, APIO, FRUTOS SECOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 7
+		},
+		{
+			"id": 8,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 472,
+				"proteins": "48g",
+				"carbohydrates": "36g",
+				"fats": "16g"
+			},
+			"ingredients": "Pechuga de pavo, salsa setas y estragón (nata, setas, caldo de pollo, estagón), berenjena, calabacín, patata, boniato, aceite de oliva virgen, sal, pimienta. Alérgenos: LÁCTEOS, APIO *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 8
+		},
+		{
+			"id": 9,
+			"grams": "(420g)",
+			"nutritionFacts": {
+				"kilocalories": 638,
+				"proteins": "23g",
+				"carbohydrates": "58g",
+				"fats": "35g"
+			},
+			"ingredients": "Arroz, presa de cerdo, caldo de cerdo, alcachofa, setas, habas, salmorreta (ñora, ajo, tomate, jugo de limón), aceite de oliva virgen, sal. Alérgenos*: APIO. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 9
+		},
+		{
+			"id": 10,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 571,
+				"proteins": "42g",
+				"carbohydrates": "58g",
+				"fats": "19g"
+			},
+			"ingredients": "Garbanzos, bacalao, caldo de pescado, espinaca, cebolla, tomate frito casero, huevo, aceite de oliva virgen, ajo, sal, laurel. Alérgenos: PESCADO, APIO, MOLUSCOS, CRUSTÁCEOS, HUEVO. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 10
+		}
+	],
+	"veggies": [
+		{
+			"id": 1,
+			"grams": "(420g)",
+			"nutritionFacts": {
+				"kilocalories": 748,
+				"proteins": "23g",
+				"carbohydrates": "118g",
+				"fats": "25g"
+			},
+			"ingredients": "Sémola de trigo, boniato, berenjena, calabacín, cebolla, patata, zanahoria, garbanzos, tomate frito casero, ciruela deshidratada, dátil, aceite de oliva virgen, canela en rama, pasta de ajo, pimentón, ras al hanout, almendra, sal. Alérgenos*: GLUTEN, FRUTOS SECOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 1
+		},
+		{
+			"id": 2,
+			"grams": "(420g)",
+			"nutritionFacts": {
+				"kilocalories": 432,
+				"proteins": "14g",
+				"carbohydrates": "65g",
+				"fats": "11g"
+			},
+			"ingredients": "Pasta de trigo, tomate frito casero, zanahoria, cebolla, soja texturizada, apio vino tinto, pasta de ajo, aceite de oliva vigen, sal, pimienta. Alérgenos*: GLUTEN, SOJA, APIO, SULFITOS. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 2
+		},
+		{
+			"id": 3,
+			"grams": "(420g)",
+			"nutritionFacts": {
+				"kilocalories": 424,
+				"proteins": "23g",
+				"carbohydrates": "65g",
+				"fats": "7g"
+			},
+			"ingredients": "Arroz, caldo de verduras, pimiento, alubia negra, cebolla, apio, tomate frio casero, soja texturizada, aceite de oliva, sal. Alérgenos: APIO, SOJA. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 3
+		},
+		{
+			"id": 4,
+			"grams": "(450g)",
+			"nutritionFacts": {
+				"kilocalories": 670,
+				"proteins": "20g",
+				"carbohydrates": "86g",
+				"fats": "27g"
+			},
+			"ingredients": "Tofu, cebolla, zanahoria, calabacín, pimiento rojo, aceite de girasol, tom kha, sal, arroz, salsa agridulce (chile dulce, salsa teriyaki, aceite de girasol, almidón de maíz, sal). Alérgenos*: SOJA, GLUTEN. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "Agujerear el film protector o abrir una esquina y calentar al microondas durante 2:00 - 2:30 minutos a máxima potencia (800w) o verter el contenido del táper en una sartén/olla al fuego para regenerar. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. Recomendamos emplatar el contenido del táper para una mejor experiencia. ¡Cuidado con el envase caliente! RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 4
+		}
+	],
+	"desserts": [
+		{
+			"id": 1,
+			"grams": "(150g)",
+			"nutritionFacts": {
+				"kilocalories": 213,
+				"proteins": "6g",
+				"carbohydrates": "40g",
+				"fats": "3g"
+			},
+			"ingredients": "Leche de coco, azúcar, arroz, pistacho, jengibre, sal, canela, piel de limón. Alérgenos*: FRUTOS SECOS DE CÁSCARA *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "No calentar, abrir y consumir frío. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 1
+		},
+		{
+			"id": 2,
+			"grams": "(150g)",
+			"nutritionFacts": {
+				"kilocalories": 322,
+				"proteins": "14g",
+				"carbohydrates": "35g",
+				"fats": "13g"
+			},
+			"ingredients": "Queso crema, azúcar, nata, almidón de maíz, huevo, harina de trigo, harina de almendra, mantequilla, sal, canela, ralladura de limón. Alérgenos*: LÁCTEOS, HUEVO, GLUTEN, FRUTOS SECOS DE CÁSCARA. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "No calentar, abrir y consumir frío. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 2
+		},
+		{
+			"id": 3,
+			"grams": "(150g)",
+			"nutritionFacts": {
+				"kilocalories": 655,
+				"proteins": "7g",
+				"carbohydrates": "61g",
+				"fats": "42g"
+			},
+			"ingredients": "Azúcar,huevo,mantequilla, chocolate,harina de trigo, frambuesas. Alérgenos*: HUEVO, LÁCTEOS, GLUTEN. *Este plato puede contener trazas de algún otro alérgeno a través de contaminación cruzada, ya que todos nuestros platos se elaboran en el mismo obrador.",
+			"instructions": "No calentar, abrir y consumir frío. Mantener refrigerado entre 0º y 4º hasta su consumo. En caso de congelar para prolongar la vida del producto, recomendamos descongelar en frigorífico 24h antes de su consumo. RECICLA: Tanto las bandejas como el film protector están fabricados de plástico mono-PET, un tipo de plástico fácilmente reciclable, por lo que puedes tirar todo al contenedor de reciclaje amarillo con la tranquilidad de que éste servirá para crear otros nuevos. *Consumir antes de la fecha de caducidad, Una vez abierto consumir en 24h.",
+			"idFoodDish": 3
+		}
+	]
 }

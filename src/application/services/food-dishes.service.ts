@@ -1,7 +1,7 @@
 import path from "node:path";
+import { match } from "ts-pattern";
 import type { FoodDishDetails } from "../../domain/entities/food-dish-details.entity";
 import type { FoodDish } from "../../domain/entities/food-dish.entity";
-import { match } from "ts-pattern";
 
 export class FoodDishesService {
 	async findFoodDishes(): Promise<FoodDish[]> {
@@ -83,17 +83,17 @@ export class FoodDishesService {
 				return foodDishes.main;
 			})
 			.with("veggies", () => {
-                return foodDishes.veggies;
+				return foodDishes.veggies;
 			})
 			.with("desserts", () => {
-                return foodDishes.desserts;
+				return foodDishes.desserts;
 			})
 			.run();
 
 		const foodDishById = foodDishesDetailsToMap.find(
 			(foodDish: FoodDish) => foodDish.id === id,
 		);
-        if (!foodDishById) {
+		if (!foodDishById) {
 			throw new Error("Food dish not found");
 		}
 
