@@ -1,8 +1,10 @@
 import type { Context } from "hono";
 
 import { FoodDishesService } from "../../../application/services/food-dishes.service";
+import { FileHelper } from "../../../common/helpers/file.helper";
 
-const foodDishesService = new FoodDishesService();
+const fileHelper = new FileHelper();
+const foodDishesService = new FoodDishesService(fileHelper);
 
 export const getFoodDishes = async (ctx: Context) => {
 	const foodDishes = await foodDishesService.findFoodDishes();

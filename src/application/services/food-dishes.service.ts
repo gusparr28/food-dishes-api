@@ -1,20 +1,15 @@
-import path from "node:path";
 import { match } from "ts-pattern";
+import type { FileHelper } from "../../common/helpers/file.helper";
 import type { FoodDishDetails } from "../../domain/entities/food-dish-details.entity";
 import type { FoodDish } from "../../domain/entities/food-dish.entity";
 
 export class FoodDishesService {
+	constructor(private readonly fileHelper: FileHelper) {}
+
 	async findFoodDishes(): Promise<FoodDish[]> {
-		const pathToFoodDishes = path.resolve(
-			__dirname,
-			"../../infrastructure/metadata/food-dishes.json",
+		const foodDishes = await this.fileHelper.extractFileData<FoodDish[]>(
+			"../../infrastructure/data/food-dishes.json",
 		);
-
-		const foodDishesFile = Bun.file(pathToFoodDishes, {
-			type: "application/json",
-		});
-
-		const foodDishes = await foodDishesFile.json();
 
 		return foodDishes;
 	}
@@ -24,14 +19,12 @@ export class FoodDishesService {
 		plateType: string,
 	): Promise<FoodDishDetails & { title: string; image: string }> {
 		const foodDishById = await this.findFoodDishById(id, plateType);
-		const pathToFoodDishesDetails = path.resolve(
-			__dirname,
-			"../../infrastructure/metadata/food-dishes-details.json",
-		);
-		const foodDishesDetailsFile = Bun.file(pathToFoodDishesDetails, {
-			type: "application/json",
-		});
-		const foodDishesDetails = await foodDishesDetailsFile.json();
+
+		const foodDishesDetails = await this.fileHelper.extractFileData<{
+			main: FoodDishDetails[];
+			veggies: FoodDishDetails[];
+			desserts: FoodDishDetails[];
+		}>("../../infrastructure/data/food-dishes-details.json");
 
 		const foodDishesDetailsToMap = match(plateType)
 			.with("main", () => {
@@ -49,7 +42,6 @@ export class FoodDishesService {
 			(foodDishDetails: FoodDishDetails) =>
 				foodDishDetails.idFoodDish === foodDishById.id,
 		);
-
 		if (!foodDishDetailsById) {
 			throw new Error("Food dish details not found");
 		}
@@ -67,16 +59,11 @@ export class FoodDishesService {
 		id: number,
 		plateType: string,
 	): Promise<FoodDish> {
-		const pathToFoodDishes = path.resolve(
-			__dirname,
-			"../../infrastructure/metadata/food-dishes.json",
-		);
-
-		const foodDishesFile = Bun.file(pathToFoodDishes, {
-			type: "application/json",
-		});
-
-		const foodDishes = await foodDishesFile.json();
+		const foodDishes = await this.fileHelper.extractFileData<{
+			main: FoodDish[];
+			veggies: FoodDish[];
+			desserts: FoodDish[];
+		}>("../../infrastructure/data/food-dishes.json");
 
 		const foodDishesDetailsToMap = match(plateType)
 			.with("main", () => {
